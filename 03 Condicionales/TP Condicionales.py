@@ -1,3 +1,6 @@
+# Dejo un archivo con todos los ejercicios juntos para ejecutarlo más rapido pero también los subo separados
+# por si necesitan revisar alguna parte en particular.
+
 # Ejercicio 1
 
 edad = int(input("Ingrese su edad: "))
