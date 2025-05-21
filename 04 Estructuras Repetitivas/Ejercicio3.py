@@ -12,7 +12,7 @@ else:
     menor = num1
     mayor = num2
 
-for i in range(menor + 1, mayor, + 1):
+for i in range(menor + 1, mayor):
     suma += i
     
 print("La suma de los números entre", menor, "y", mayor, "excluyendo esos valores es:", suma)
